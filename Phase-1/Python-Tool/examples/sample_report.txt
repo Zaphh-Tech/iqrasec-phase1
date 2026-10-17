@@ -1,0 +1,8 @@
+Incident note — 2026-10-17.
+C2: hxxp://evil-domain[.]com/gate.php  ->  185.220.101.45  (internal pivot 10.0.0.5)
+Dropper SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Older sample MD5: 44d88612fea8a8f36de82e1278abb02f
+Phishing sender: admin[at]evil-domain[.]com ; secondary host login.evil-cdn.net
+Exploited: CVE-2026-1337 and cve-2021-44228
+Benign artifacts seen: report.txt, sample.exe
+IPv6 beacon: 2001:db8::dead:beef
