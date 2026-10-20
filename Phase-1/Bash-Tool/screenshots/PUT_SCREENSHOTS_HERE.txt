@@ -1,4 +1,0 @@
-Add your run screenshots here (PNG). Suggested:
-- full run of ./tool.sh
-- ./tool.sh -s ssh
-- ./tool.sh --help

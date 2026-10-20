@@ -1,5 +1,0 @@
-Add your run screenshots here (PNG). Suggested:
-- ./tool.py report.txt (text)
-- --format json
-- --format csv --defang
-- ./tool.py --help
